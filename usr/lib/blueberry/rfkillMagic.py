@@ -129,4 +129,3 @@ class Interface:
     def debug(self, msg):
         if self.enable_debugging:
             print(msg)
-
